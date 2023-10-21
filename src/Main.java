@@ -29,5 +29,5 @@ public class SchedulingAlgorithms {
         // SJN(processes);
         // PriorityScheduling(processes);
         // ShortestRemainingTime(processes);
-        // MultipleLevelQueues(processes);
+        // MultipleLevelQueues(processes)
     }
